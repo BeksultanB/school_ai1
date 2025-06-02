@@ -1,4 +1,5 @@
 // @prepros-append "./header/header.js"
+// @prepros-append "./sidebar/sidebar.js"
 // @prepros-append "./main/main.js"
 // @prepros-append "./about/about.js"
 // @prepros-append "./footer/footer.js"

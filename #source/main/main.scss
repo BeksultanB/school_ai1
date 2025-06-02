@@ -1,8 +1,13 @@
-main {
-    width: 100%;
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+
+div {
+    background-color: aqua;
+}
+
+img {
+    width: 300px;
     height: 200px;
-    background-color: orange;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
